@@ -1,6 +1,6 @@
 | Week | Meetings | Chapters | Notes |
 |------|----------|----------|-------|
-| Week 1: September 21-25 | Wednesday 12:00pm-1:00pm (Seminar) | Wednesday 12:00pm-1:00pm (Book Club) |Book pick up |
+| Week 1: September 21-25 | Wednesday 12:00pm-1:00pm (Seminar) | |Book pick up |
 | Week 2: September 28-October 2 | Wednesday 12:00pm-1:00pm (Book Club) |Chapters 1-4 (1-27) | |
 | Week 3: October 5-9 | Wednesday 12:00pm-1:00pm (Seminar) | Chapters 5-9 (28-64) | |
 | Week 4: October 12-16 | Wednesday 12:00pm-1:00pm (Book Club) |Chapters 10-14 (67-105) | |
